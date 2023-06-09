@@ -41,7 +41,11 @@ int main(){
     printf("---> YOUR FINALL KCET PERCENTAGE IS = %f \n" ,final);
     printf("\n");
     printf("-------------CONGRATULATIONS----------------\n");
+    printf("\n");
+    printf("\n");
+    printf("Any suggestion are welcomed \n");
+    printf("Mail: saadmudhol@gmail.com\n");
+    printf("Ig: @i_mohammedsaad\n");
    printf("\n");
  return 0;
-
 }
